@@ -1,4 +1,4 @@
-# For on lists
+"""For on lists"""
 
 test_list = [1, 2, 3, 'Zarzadzanie', 'IT', [9, 8, 7]]
 

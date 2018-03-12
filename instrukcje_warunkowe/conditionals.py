@@ -1,4 +1,4 @@
-# Instrukcje warunkowe if ... elif ... else
+"""Instrukcje warunkowe if ... elif ... else"""
 
 some_value = input('Enter some value: ')
 

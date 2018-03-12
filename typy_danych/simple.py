@@ -1,19 +1,18 @@
 # coding=utf-8
 
+"""Typy proste - podstawowe typy danych w języku Python."""
+
 from utils.helpers import print_data_types
 
-"""
-Typy proste
-
-Podstawowe typy danych w języku Python.
-"""
 
 # Integer
 int_sample = 1
 
+
 # Float
 float_sample = 1.0
 another_float_sample = 2.
+
 
 # String
 string_sample = 'Sample string'

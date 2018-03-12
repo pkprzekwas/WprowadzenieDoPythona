@@ -1,4 +1,4 @@
-# Operatory
+"""Operatory"""
 
 
 value = 1729

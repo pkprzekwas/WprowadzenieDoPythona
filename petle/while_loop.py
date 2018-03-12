@@ -1,4 +1,4 @@
-# While
+"""While"""
 
 from random import randint
 

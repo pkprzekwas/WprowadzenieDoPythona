@@ -1,6 +1,6 @@
 # coding=utf-8
 
-# Definicje funkcji
+"""Definicje funkcji"""
 
 
 def say_hello():
