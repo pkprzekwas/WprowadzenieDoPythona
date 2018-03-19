@@ -1,6 +1,6 @@
 """Instrukcje warunkowe if ... elif ... else"""
 
-some_value = input('Enter some value: ')
+some_value = int(input('Enter some value: '))
 
 if some_value == 5:
     print('Value is 5')
