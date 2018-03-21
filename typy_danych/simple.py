@@ -15,8 +15,9 @@ another_float_sample = 2.
 
 
 # String
-string_sample = 'Sample string'
-another_string_sample = "Yet another string sample"
+string_sample = 'Sample "string"'
+another_string_sample = "Yet 'another' string sample"
 
 
-print_data_types(int_sample, float_sample, another_float_sample, string_sample, another_string_sample)
+print_data_types(int_sample, float_sample, another_float_sample,
+                 string_sample, another_string_sample)
