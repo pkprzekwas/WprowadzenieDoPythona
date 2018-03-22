@@ -1,0 +1,5 @@
+
+
+PROJECT_NAME = 'Python warsztat'
+ROOM = 204
+PARTICIPANTS_NUM = 13
